@@ -19,7 +19,6 @@
 
 // Comece aqui seu programa.
 
-
 #include <stdio.h>
 
 int main(void)
